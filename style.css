@@ -1,5 +1,7 @@
 body{
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    padding:20px;
+    font-family: sans-serif;
     
 }
 
@@ -71,6 +73,10 @@ h1,h2,p{
 
 .address{
     margin-bottom: 5px;
+}
+
+.bottom-line{
+    margin-top: 20px;
 }
 
 a:active{
